@@ -1,4 +1,4 @@
-# TCP_Chat_Server
+# TCP_GroupChat_Server
 Chat Server in Golang using channels, goroutines, and the `net` package that supports TCP. 
 The TCP Chat application has the following components:
 
